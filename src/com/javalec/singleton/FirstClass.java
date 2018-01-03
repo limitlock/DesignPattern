@@ -14,6 +14,6 @@ public class FirstClass {
 		singletonClass.setI(200);
 		System.out.println("i = " + singletonClass.getI());
 
-	}
+	} 
 
 }

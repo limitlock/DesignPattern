@@ -47,6 +47,6 @@ public class SingletonClass {
 
 	public void setI(int i) {
 		this.i = i;
-	}
+	} 
 
 }
