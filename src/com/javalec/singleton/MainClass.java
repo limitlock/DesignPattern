@@ -8,6 +8,6 @@ public class MainClass {
 		FirstClass f = new FirstClass();
 		SecondClass s = new SecondClass();
 
-	} 
+	}
 
 }
